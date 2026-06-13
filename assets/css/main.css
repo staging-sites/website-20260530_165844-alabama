@@ -15870,17 +15870,23 @@ a.fr-book-fit:focus-visible {
   min-height: clamp(19rem, 54vh, 35rem);
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
   align-self: start;
   aspect-ratio: 16 / 9;
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-preview, .uap-world-map-preview) {
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
   display: block;
   width: 100%;
   height: 100%;
@@ -16184,7 +16190,9 @@ a.fr-book-fit:focus-visible {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
     aspect-ratio: 4 / 3;
   }
 
