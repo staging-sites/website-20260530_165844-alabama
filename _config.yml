@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-20260613-state-map-fix'
+ui_bundle_version: 'build-20260613-map-stable'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
