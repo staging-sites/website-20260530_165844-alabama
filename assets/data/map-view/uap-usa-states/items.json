@@ -16,7 +16,8 @@
       "url": "what-are-alabamas-most-significant-ufo/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Alabama_d1f92d-overview.webp"
     },
     {
       "iso": "AK",
@@ -30,7 +31,8 @@
       "url": "what-really-happened-in-alaskas-ufo/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Alaska_7288f7-overview.webp"
     },
     {
       "iso": "AZ",
@@ -44,7 +46,8 @@
       "url": "why-arizona-became-a-ufo-state/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Arizona_104fd3-overview.webp"
     },
     {
       "iso": "AR",
@@ -58,7 +61,8 @@
       "url": "what-really-happened-in-arkansas-skies/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Arkansas_2f717f-overview.webp"
     },
     {
       "iso": "CA",
@@ -72,7 +76,8 @@
       "url": "why-california-became-a-ufo-hotspot/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/California_cf386e-overview.webp"
     },
     {
       "iso": "CO",
@@ -86,7 +91,8 @@
       "url": "what-really-happened-in-colorados-ufo/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Colorado_d28817-overview.webp"
     },
     {
       "iso": "CT",
@@ -100,7 +106,8 @@
       "url": "connecticut-ufos-from-colonial-legends/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/Connecticut_ec4da3-overview.webp"
     },
     {
       "iso": "DE",
@@ -114,7 +121,8 @@
       "url": "what-really-happened-in-delawares-ufo/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Delaware_5861e4-overview.webp"
     },
     {
       "iso": "FL",
@@ -128,7 +136,8 @@
       "url": "what-makes-florida-a-hotspot-for-ufo/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Florida_30c2d0-overview.webp"
     },
     {
       "iso": "GA",
@@ -142,7 +151,8 @@
       "url": "what-really-happened-in-georgias-most/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Georgia_9113c6-overview.webp"
     },
     {
       "iso": "HI",
@@ -156,7 +166,8 @@
       "url": "what-really-happened-in-hawaiis-ufo/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Hawaii_a1be95-overview.webp"
     },
     {
       "iso": "ID",
@@ -170,7 +181,8 @@
       "url": "what-makes-idaho-a-key-ufo-hotspot/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Idaho_18334c-overview.webp"
     },
     {
       "iso": "IL",
@@ -184,7 +196,8 @@
       "url": "illinois/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Illinois_31b9d2-overview.webp"
     },
     {
       "iso": "IN",
@@ -198,7 +211,8 @@
       "url": "what-makes-indianas-ufo-history-unique/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Indiana_5d00be-overview.webp"
     },
     {
       "iso": "IA",
@@ -212,7 +226,8 @@
       "url": "what-really-happened-in-iowas-ufo-cases/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Iowa_08a48b-overview.webp"
     },
     {
       "iso": "KS",
@@ -226,7 +241,8 @@
       "url": "what-did-kansas-really-see/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Kansas_48303f-overview.webp"
     },
     {
       "iso": "KY",
@@ -240,7 +256,8 @@
       "url": "what-really-happened-in-kentuckys-ufo/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Kentucky_e3b665-overview.webp"
     },
     {
       "iso": "LA",
@@ -254,7 +271,8 @@
       "url": "what-really-happened-in-louisianas-ufo/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Louisiana_b158e0-overview.webp"
     },
     {
       "iso": "ME",
@@ -268,7 +286,8 @@
       "url": "what-makes-maine-a-hotspot-for-ufo/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/Maine_8dc024-overview.webp"
     },
     {
       "iso": "MD",
@@ -282,7 +301,8 @@
       "url": "marylands-ufo-mysteries-close-encounters/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Maryland_1ac107-overview.webp"
     },
     {
       "iso": "MA",
@@ -296,7 +316,8 @@
       "url": "what-really-happened-in-massachusetts/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/Massachusetts_d42990-overview.webp"
     },
     {
       "iso": "MI",
@@ -310,7 +331,8 @@
       "url": "michigans-most-notable-ufo-sightings-and/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Michigan_5110b3-overview.webp"
     },
     {
       "iso": "MN",
@@ -324,7 +346,8 @@
       "url": "what-really-happened-in-minnesotas-skies/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Minnesota_60590f-overview.webp"
     },
     {
       "iso": "MS",
@@ -338,7 +361,8 @@
       "url": "mississippi-cba-267/",
       "count": 12,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Mississippi_cba267-overview.webp"
     },
     {
       "iso": "MO",
@@ -352,7 +376,8 @@
       "url": "what-really-happened-in-missouris-ufo/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Missouri_d961c4-overview.webp"
     },
     {
       "iso": "MT",
@@ -366,7 +391,8 @@
       "url": "why-montana-became-a-ufo-landmark/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Montana_8d274f-overview.webp"
     },
     {
       "iso": "NE",
@@ -380,7 +406,8 @@
       "url": "what-really-happened-in-nebraskas-ufo/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Nebraska_e9c60b-overview.webp"
     },
     {
       "iso": "NV",
@@ -394,7 +421,8 @@
       "url": "why-nevada-became-ufo-country/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Nevada_b93191-overview.webp"
     },
     {
       "iso": "NH",
@@ -408,7 +436,8 @@
       "url": "why-new-hampshire-became-ufo-country/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/New_Hampshire_824569-overview.webp"
     },
     {
       "iso": "NJ",
@@ -422,7 +451,8 @@
       "url": "what-really-happened-in-new-jerseys-ufo/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/New_Jersey_18255a-overview.webp"
     },
     {
       "iso": "NM",
@@ -436,7 +466,8 @@
       "url": "why-new-mexico-became-ufo-country/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/New_Mexico_45551f-overview.webp"
     },
     {
       "iso": "NY",
@@ -450,7 +481,8 @@
       "url": "what-really-happened-in-new-yorks-ufo/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/New_York_c7ef6c-overview.webp"
     },
     {
       "iso": "NC",
@@ -464,7 +496,8 @@
       "url": "what-really-happened-in-north/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/North_Carolina_cd988f-overview.webp"
     },
     {
       "iso": "ND",
@@ -478,7 +511,8 @@
       "url": "why-north-dakota-matters-in-ufo-history/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/North_Dakota_0b6838-overview.webp"
     },
     {
       "iso": "OH",
@@ -492,7 +526,8 @@
       "url": "why-ohio-became-a-ufo-state/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Ohio_d318c1-overview.webp"
     },
     {
       "iso": "OK",
@@ -506,7 +541,8 @@
       "url": "why-oklahoma-became-a-ufo-state/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Oklahoma_86daa4-overview.webp"
     },
     {
       "iso": "OR",
@@ -520,7 +556,8 @@
       "url": "why-oregon-matters-in-ufo-history/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Oregon_07719a-overview.webp"
     },
     {
       "iso": "PA",
@@ -534,7 +571,8 @@
       "url": "what-really-happened-in-pennsylvanias/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/Pennsylvania_dff756-overview.webp"
     },
     {
       "iso": "RI",
@@ -548,7 +586,8 @@
       "url": "what-rhode-islands-ufo-reports-really/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/Rhode_Island_b30a18-overview.webp"
     },
     {
       "iso": "SC",
@@ -562,7 +601,8 @@
       "url": "what-makes-south-carolinas-ufo-story/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/South_Carolina_11d001-overview.webp"
     },
     {
       "iso": "SD",
@@ -576,7 +616,8 @@
       "url": "what-really-happened-in-south-dakotas/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/South_Dakota_ad4a41-overview.webp"
     },
     {
       "iso": "TN",
@@ -590,7 +631,8 @@
       "url": "what-keeps-tennessees-ufo-stories-alive/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Tennessee_1f4d4c-overview.webp"
     },
     {
       "iso": "TX",
@@ -604,7 +646,8 @@
       "url": "why-texas-became-a-ufo-archive/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Texas_98125d-overview.webp"
     },
     {
       "iso": "UT",
@@ -618,7 +661,8 @@
       "url": "what-makes-utahs-ufo-history-so/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Utah_2ff606-overview.webp"
     },
     {
       "iso": "VT",
@@ -632,7 +676,8 @@
       "url": "what-makes-vermonts-ufo-stories-endure/",
       "count": 13,
       "region": "Northeast",
-      "regionKey": "northeast"
+      "regionKey": "northeast",
+      "image": "/assets/images/Vermont_835aef-overview.webp"
     },
     {
       "iso": "VA",
@@ -646,7 +691,8 @@
       "url": "what-really-haunts-west-virginias-ufo/",
       "count": 13,
       "region": "South",
-      "regionKey": "south"
+      "regionKey": "south",
+      "image": "/assets/images/Virginia_027fb4-overview.webp"
     },
     {
       "iso": "WA",
@@ -660,7 +706,8 @@
       "url": "why-washington-shaped-ufo-history/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Washington_a27a66-overview.webp"
     },
     {
       "iso": "WI",
@@ -674,7 +721,8 @@
       "url": "what-really-made-wisconsin-a-ufo-state/",
       "count": 13,
       "region": "Midwest",
-      "regionKey": "midwest"
+      "regionKey": "midwest",
+      "image": "/assets/images/Wisconsin_52b248-overview.webp"
     },
     {
       "iso": "WY",
@@ -688,7 +736,8 @@
       "url": "what-really-happened-in-wyoming-skies/",
       "count": 13,
       "region": "West",
-      "regionKey": "west"
+      "regionKey": "west",
+      "image": "/assets/images/Wyoming_ed190c-overview.webp"
     }
   ]
 }
