@@ -45,6 +45,53 @@
     }
   }
 
+  function stripGeneratedTitleSuffix(value) {
+    var text = String(value || "").replace(/\s+/g, " ").trim();
+    if (!text) {
+      return "";
+    }
+    var parts = text.split(" ");
+    var trimCount = 0;
+    var sawDigit = false;
+    var sawLongToken = false;
+    for (var i = parts.length - 1; i >= 0; i -= 1) {
+      var token = String(parts[i] || "").replace(/[^A-Za-z0-9]/g, "");
+      if (!token || !/^[0-9A-Fa-f]{1,6}$/.test(token)) {
+        break;
+      }
+      trimCount += 1;
+      sawDigit = sawDigit || /\d/.test(token);
+      sawLongToken = sawLongToken || token.length >= 4;
+    }
+    if (trimCount >= 2 && (sawDigit || sawLongToken) && trimCount < parts.length) {
+      return parts.slice(0, parts.length - trimCount).join(" ").trim();
+    }
+    return text;
+  }
+
+  function cleanGeneratedTopicLabels() {
+    var nodes = document.querySelectorAll(
+      ".article-branch-section a, .article-branch-link-short, .sidebar-link, .sidebar-toggle"
+    );
+    Array.prototype.forEach.call(nodes, function (node) {
+      var original = String(node.textContent || "").replace(/\s+/g, " ").trim();
+      var cleaned = stripGeneratedTitleSuffix(original);
+      if (cleaned && cleaned !== original && node.childElementCount === 0) {
+        node.textContent = cleaned;
+      }
+      ["title", "aria-label", "data-sidebar-search"].forEach(function (attr) {
+        if (!node.hasAttribute || !node.hasAttribute(attr)) {
+          return;
+        }
+        var attrValue = node.getAttribute(attr);
+        var cleanedAttr = stripGeneratedTitleSuffix(attrValue);
+        if (cleanedAttr && cleanedAttr !== attrValue) {
+          node.setAttribute(attr, cleanedAttr);
+        }
+      });
+    });
+  }
+
   function isContentPageScrollResetEligible() {
     var body = document.body;
     if (!body || body.classList.contains("page-home")) {
@@ -65,6 +112,65 @@
     }
     // Fresh navigations naturally start at the top; forcing it here can
     // interrupt readers after slow-loading assets or bfcache restores.
+  }
+
+  function affiliateMerchantFromUrl(rawUrl) {
+    var hostname = "";
+    try {
+      hostname = String(new URL(String(rawUrl || ""), window.location.href).hostname || "").toLowerCase();
+    } catch (err) {
+      return "";
+    }
+    if (hostname.indexOf("amazon.") !== -1 || hostname === "amzn.to") {
+      return "amazon";
+    }
+    if (hostname.indexOf("ebay.") !== -1) {
+      return "ebay";
+    }
+    if (hostname.indexOf("etsy.") !== -1) {
+      return "etsy";
+    }
+    if (hostname.indexOf("temu.") !== -1) {
+      return "temu";
+    }
+    return "";
+  }
+
+  function affiliatePlacementForLink(link) {
+    if (!link || typeof link.closest !== "function") {
+      return "unknown";
+    }
+    if (link.closest(".fr-book-card")) {
+      return "book_card";
+    }
+    if (link.closest(".merchant-card, .affiliate-card, [data-ebay-item-id]")) {
+      return "marketplace_card";
+    }
+    if (link.closest(".further-reading-section")) {
+      return "further_reading";
+    }
+    return "page_link";
+  }
+
+  function initAffiliateClickTracking() {
+    document.addEventListener("click", function(event) {
+      var target = event.target;
+      var link = target && typeof target.closest === "function" ? target.closest("a[href]") : null;
+      if (!link) {
+        return;
+      }
+      var merchant = affiliateMerchantFromUrl(link.href);
+      if (!merchant || typeof window.gtag !== "function") {
+        return;
+      }
+      window.gtag("event", "affiliate_click", {
+        affiliate_merchant: merchant,
+        affiliate_placement: affiliatePlacementForLink(link),
+        link_url: String(link.href || ""),
+        link_text: String(link.textContent || "").replace(/\s+/g, " ").trim().slice(0, 120),
+        transport_type: "beacon"
+      });
+    });
   }
 
   function getUiString(name, fallback) {
@@ -3333,8 +3439,12 @@
       }
 
       function getSecondaryCardTitle(node) {
+        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
         var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
         var displayLabel = getDisplayLabel(node).replace(/\s+/g, " ").trim();
+        if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(displayLabel)) {
+          return catchyTitle;
+        }
         if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(displayLabel)) {
           return "";
         }
@@ -5300,8 +5410,13 @@
 
       function getSecondaryCardTitle(node, displayLabel) {
 
+        var catchyTitle = String((node && node.catchy_title) || "").replace(/\s+/g, " ").trim();
         var fullLabel = getFullLabel(node).replace(/\s+/g, " ").trim();
         var compactLabel = String(displayLabel || getDisplayLabel(node)).replace(/\s+/g, " ").trim();
+
+        if (catchyTitle && normalizeCardTitleForCompare(catchyTitle) !== normalizeCardTitleForCompare(compactLabel)) {
+          return catchyTitle;
+        }
 
         if (!fullLabel || normalizeCardTitleForCompare(fullLabel) === normalizeCardTitleForCompare(compactLabel)) {
           return "";
@@ -9962,6 +10077,8 @@
 
   function init() {
     initContentPageScrollReset();
+    cleanGeneratedTopicLabels();
+    initAffiliateClickTracking();
     initScrollAnimations();
     initAnchorOffsetSync();
     highlightSearchTermOnPage();
