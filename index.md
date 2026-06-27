@@ -190,7 +190,7 @@ site_image_description: A clean editorial map-inspired homepage image for a Unit
       </span>
       <span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Connecticut</span>
       <strong data-interactive-map-preview-title data-uap-world-map-preview-title>Connecticut UFOs: From Colonial Legends to Modern...</strong>
-      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Connecticutâ€™s UFO history is not built around one single Roswell-style legend.</span>
+      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Connecticut’s UFO history is not built around one single Roswell-style legend.</span>
       <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
     </article>
   </section>
