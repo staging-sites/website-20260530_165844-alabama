@@ -179,7 +179,7 @@ site_image_description: A clean editorial map-inspired homepage image for a Unit
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-item-type="state" data-map-label="UFO and UAP USA states map" data-map-fallback-summary="Open this state file from the map." data-map-src="{{ 'assets/maps/us.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/us-states.json' | relative_url }}" data-map-preview-preload="all">
+  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="state" data-map-layout="us-states" data-map-item-type="state" data-map-label="UFO and UAP USA states map" data-map-fallback-summary="Open this state file from the map." data-map-src="{{ 'assets/maps/us.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/us-states.json' | relative_url }}" data-map-initial-item="AZ" data-map-preview-preload="all">
     <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
     <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
       <img src="{{ '/assets/images/Connecticut_ec4da3-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
@@ -190,11 +190,10 @@ site_image_description: A clean editorial map-inspired homepage image for a Unit
       </span>
       <span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Connecticut</span>
       <strong data-interactive-map-preview-title data-uap-world-map-preview-title>Connecticut UFOs: From Colonial Legends to Modern...</strong>
-      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Connecticut’s UFO history is not built around one single Roswell-style legend.</span>
+      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Connecticutâ€™s UFO history is not built around one single Roswell-style legend.</span>
       <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
     </article>
   </section>
   <p class="home-map-panel-note">Use the map to jump into a state file, or browse the full state list below.</p>
   <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>
-
