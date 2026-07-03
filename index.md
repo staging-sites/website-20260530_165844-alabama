@@ -198,3 +198,4 @@ site_image_description: A clean editorial map-inspired homepage image for a Unit
 <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>
 
+<!-- codex domain refresh 2026-07-03T19:50Z -->
